@@ -1,4 +1,4 @@
-# bikesharing
+# Bikesharing Analysis
 Click here to view the dashboard on Tableau: [NYC Citi Bike-Sharing Analysis Dashboard](https://public.tableau.com/views/NYC-BikeSharingDashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Overview of Analysis
