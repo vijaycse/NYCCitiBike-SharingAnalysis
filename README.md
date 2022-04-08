@@ -1,5 +1,5 @@
-# bikesharing
-Click here to view the dashboard on Tableau: [NYC Citi Bike-Sharing Analysis Dashboard](https://public.tableau.com/authoring/NYC-BikeSharingDashboard/CheckoutTimesforuser/Dashboard#1)
+# Bikesharing Analysis
+Click here to view the dashboard on Tableau: [NYC Citi Bike-Sharing Analysis Dashboard](https://public.tableau.com/views/NYC-BikeSharingDashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Overview of Analysis
 The purpose of this analysis is to create a proposal that supports investors to support a bike-sharing program in Des Moines, Iowa. From the given dataset, we were able to create visualizations to see average biking durations trends and the relationships between gender and popular biking times. Specifically, this set of visualizations: 
@@ -10,17 +10,17 @@ The purpose of this analysis is to create a proposal that supports investors to 
 
 ## Results
 The results of the analysis and visualizations are shown below:
-![Top Starting Locations](https://github.com/vijaycse/NYCCitiBike-SharingAnalysis/blob/main/Resources/Top%20Starting%20Locations.png)
 
-![August Peak Times](https://github.com/vijaycse/NYCCitiBike-SharingAnalysis/blob/main/Resources/August%20Peak%20Hours.png)
 
-![Trips per Hour by Weekday](https://github.com/vijaycse/NYCCitiBike-SharingAnalysis/blob/main/Resources/Trips%20per%20Hour%20by%20Weekday.png)
+![Trips per Hour by Weekday](https://github.com/vijaycse/NYCCitiBike-SharingAnalysis/blob/master/resources/TripsByWeekdayPerHr.png)
 
-![Trips per Weekday by Gender](https://github.com/vijaycse/NYCCitiBike-SharingAnalysis/blob/main/Resources/Trips%20per%20Weekday%20by%20Gender.png)
+![Trips per Weekday by Gender](https://github.com/vijaycse/NYCCitiBike-SharingAnalysis/blob/master/resources/TripsByGenderByWeekdayHr.png)
 
-![Checkout Times by Users](https://github.com/vijaycse/NYCCitiBike-SharingAnalysis/blob/main/Resources/Checkout%20Times%20by%20Users.png)
+![User_Trips_Weekday by Gender](https://github.com/vijaycse/NYCCitiBike-SharingAnalysis/blob/master/resources/UserTripsByGenderWeekday.png)
 
-![Checkout Times by Gender](https://github.com/vijaycse/NYCCitiBike-SharingAnalysis/blob/main/Resources/Checkout%20Times%20by%20Gender.png)
+![Checkout Times by Users](https://github.com/vijaycse/NYCCitiBike-SharingAnalysis/blob/master/resources/CheckoutTimesByUser.png)
+
+![Checkout Times by Gender](https://github.com/vijaycse/NYCCitiBike-SharingAnalysis/blob/master/resources/CheckoutTimesByGender.png)
 
 ## Summary
 We can conclude that many of these users may not be tourists but work commuters, as most of the peak times are around morning and evening commute. Additionally, a majority of the users were male riders. Another significant point that can be made is that most of the ride durations peaked at around 5 minutes. If there were to be a bike-sharing program set up in Des Moines, it would help if each station can be set up within 10 minutes of biking distance from each other. This is because we need to take into account that NYC is a large city, where as Des Moines is mainly suburbs. Places tend to be farther apart in suburbs compared to places in large cities. 
