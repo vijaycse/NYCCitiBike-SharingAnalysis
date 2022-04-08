@@ -11,34 +11,44 @@ The purpose of this analysis is to create a proposal that supports investors to 
 ## Results
 The results of the analysis and visualizations are shown below:
 
+### Trips per Hour by Weekday:
 
 ![Trips per Hour by Weekday](https://github.com/vijaycse/NYCCitiBike-SharingAnalysis/blob/master/resources/TripsByWeekdayPerHr.png)
    
-   ### Analysis:
+   #### Analysis:
     
     - Evening time is pretty busy during the weekdays 
+    
+ ### Trips per Weekday by Gender:
 
 ![Trips per Weekday by Gender](https://github.com/vijaycse/NYCCitiBike-SharingAnalysis/blob/master/resources/TripsByGenderByWeekdayHr.png)
   
-   ### Analysis:
+   #### Analysis:
     - Male commuters are using bike renter program more than female 
 
+ ### User Trips_Weekday by Gender:
+ 
 ![User_Trips_Weekday by Gender](https://github.com/vijaycse/NYCCitiBike-SharingAnalysis/blob/master/resources/UserTripsByGenderWeekday.png)
 
-   ### Analysis:
+   #### Analysis:
     -  Weekday are very busy esp. Mon, Tue and Thrus and interestingly saturday is also 
        little busy mostly from tourist I believe 
+       
+ ### Checkout Times by Users:
 
 ![Checkout Times by Users](https://github.com/vijaycse/NYCCitiBike-SharingAnalysis/blob/master/resources/CheckoutTimesByUser.png)
 
-   ### Analysis:
+   #### Analysis:
     -  Trip duration is < 20 minutes most cases. 
 
+ ### Checkout Times by Gender:
+ 
 ![Checkout Times by Gender](https://github.com/vijaycse/NYCCitiBike-SharingAnalysis/blob/master/resources/CheckoutTimesByGender.png)
 
-   ### Analysis: 
+   #### Analysis: 
     - Male commuters are highly utilizing the bike renter program
 
+ ### Popular Starting time:
 
 ![Popular Starting time](https://github.com/vijaycse/NYCCitiBike-SharingAnalysis/blob/master/resources/PopularStartingTime.png)
 
@@ -46,6 +56,7 @@ The results of the analysis and visualizations are shown below:
      - Popular Starting time is around work time. We can conclude bike renters are most likely employees 
        who use bike to commute in crowded newyork city
 
+ ### Popular Starting location:
 
 ![Popular Starting location](https://github.com/vijaycse/NYCCitiBike-SharingAnalysis/blob/master/resources/PopularStartintPoint.png)
 
